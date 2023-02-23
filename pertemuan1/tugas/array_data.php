@@ -7,7 +7,7 @@
     ["id" => "05", "name" => "Manggis", "color" => "Coklat", "stock" => 15, "price" => 'Rp 10.000', "description" => "buah dengan daging ungu"],
     ["id" => "06", "name" => "Pisang", "color" => "Kuning", "stock" => 60, "price" => 'Rp 15.000', "description" => "buah yang disukai monyet"],
     ["id" => "07", "name" => "Stroberi", "color" => "Merah", "stock" => 80, "price" => 'Rp 10.000', "description" => "buah asam tetapi favorit"],
-    ["id" => "03", "name" => "Salak", "color" => "Hitam", "stock" => 25, "price" => 'Rp 20.000', "description" => "manis dan sedikit kecut"]
+    ["id" => "08", "name" => "Salak", "color" => "Hitam", "stock" => 25, "price" => 'Rp 20.000', "description" => "manis dan sedikit kecut"]
   ];
 ?>
 
