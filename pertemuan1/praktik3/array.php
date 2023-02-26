@@ -68,10 +68,10 @@
       ];
       
       foreach ($m_fruits as $fruit) {
-        echo '<td>'.$fruit["name"].'</td>';
-        echo '<td>'.$fruit["color"].'</td>';
-        echo '<td>'.$fruit["stock"].'</td>';
-        echo '<td>'.$fruit["price"].'</td>';
+        echo '<li>'.$fruit["name"].'</li>';
+        echo '<li>'.$fruit["color"].'</li>';
+        echo '<li>'.$fruit["stock"].'</li>';
+        echo '<li>'.$fruit["price"].'</li>';
         echo '<br>';
       }
 ?>
