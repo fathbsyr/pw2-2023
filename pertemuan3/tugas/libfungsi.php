@@ -7,8 +7,8 @@
  */
 
 
-function kelulusan($rata_rata)
-{	/**
+function kelulusan($rata_rata) {	
+/**
  * Keterangan:
  * Function kelulusan, jika:
  * total nilai lebih dari 55 maka lulus
@@ -24,8 +24,8 @@ function kelulusan($rata_rata)
 	}
 }
 
- function grade($rata_rata) 
-{	/**
+ function grade($rata_rata) {	
+/**
  * Function grade, jika:
  * total nilai <= 100 maka A
  * total nilai <= 84 maka B
@@ -49,8 +49,8 @@ function kelulusan($rata_rata)
 	}
 }
 
-function predikat($grade)
-{	/**
+function predikat($grade) {
+/**
  * Function predikat, jika:
  * grade A maka Sangat Memuaskan
  * grade B maka Memuaskan
